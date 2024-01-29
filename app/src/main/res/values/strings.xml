@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FotaMaster</string>
+    <string name="reload">Read fotaMaster.log</string>
+    <string name="find">Find fotaMaster</string>
+    <string name="about">About</string>
+    <string name="quit">Quit</string>
+    <string name="about_dialog">This is an application for reading FOTA (Firmware Over The Air) logs.
+It was created with the help of ONAY! employees and is distributed under the MIT license.
+        <a href="https://github.com/ratstraper/fota-log-reader.git">https://github.com/ratstraper/fota-log-reader.git</a></string>
+</resources>
